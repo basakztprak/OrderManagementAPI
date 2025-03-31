@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\funda\\source\\repos\\OrderManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Migrations\\20250330174011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderManagement\\Migrations\\20250330174011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +19,60 @@
       "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\migrations\\20250331201804_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\migrations\\20250331201804_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\migrations\\20250330174011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\migrations\\20250330174011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|c:\\users\\funda\\source\\repos\\ordermanagement\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D7AF78C-AAFB-4A7A-94BB-D2C9297D60C9}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +82,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\IProductService.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:25:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\ProductService.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:25:47.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderManagement\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:13:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderManagement\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:12:07.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\IOrderService.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:14:28.025Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:14:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "OrderManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:04:55.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderManagement\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:21:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Product.cs",
+              "RelativeToolTip": "OrderManagement\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:21:12.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:27:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "OrderManagement\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:25:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "OrderManagement\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:25:26.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250331201804_updated.cs",
+              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Migrations\\20250331201804_updated.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Migrations\\20250331201804_updated.cs",
+              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Migrations\\20250331201804_updated.cs",
+              "RelativeToolTip": "OrderManagement\\Migrations\\20250331201804_updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:18:05.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "20250330174011_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Migrations\\20250330174011_InitialCreate.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Migrations\\20250330174011_InitialCreate.cs",
@@ -59,33 +285,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\appsettings.json",
               "RelativeDocumentMoniker": "OrderManagement\\appsettings.json",
               "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\appsettings.json",
               "RelativeToolTip": "OrderManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T17:27:23.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:27:23.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "OrderManagement\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA9wDwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:24:53.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Data\\ApplicationDbContext.cs",
@@ -93,39 +305,12 @@
               "RelativeToolTip": "OrderManagement\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:22:53.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:22:53.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "OrderManagement\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Order.cs",
-              "RelativeToolTip": "OrderManagement\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:21:36.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "OrderManagement\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Entities\\Product.cs",
-              "RelativeToolTip": "OrderManagement\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:21:12.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderManagement",
+              "DocumentIndex": 14,
+              "Title": "OrderManagement.csproj",
               "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\OrderManagement.csproj",
               "RelativeDocumentMoniker": "OrderManagement\\OrderManagement.csproj",
               "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\OrderManagement.csproj",
@@ -134,23 +319,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-30T17:12:47.527Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Program.cs",
-              "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\funda\\source\\repos\\OrderManagement\\OrderManagement\\Program.cs",
-              "RelativeToolTip": "OrderManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:04:55.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
